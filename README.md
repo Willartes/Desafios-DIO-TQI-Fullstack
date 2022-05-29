@@ -2,24 +2,24 @@
 
 [Sintaxe Básico do Markdown](https://www.markdownguide.org/basic-syntax/)
 
-#Como criar um repositório no GitHub
+# Como criar um repositório no GitHub
 
-##git init
-##git add .
+## git init
+## git add .
 
-##git commit -m ""
+## git commit -m ""
 
-##git branch -M main
+## git branch -M main
 
-##git remote add origin https://github.com/Willartes/Desafios-DIO-TQI-Fullstack.git
+## git remote add origin https://github.com/Willartes/Desafios-DIO-TQI-Fullstack.git
 
-##git push -u origin main
+## git push -u origin main
 
-#Para criar nova branch
+# Para criar nova branch
 
-##git checkout -b nome-da-brench
+## git checkout -b nome-da-brench
 
 ## para fazer novo commit
-##git add .
-##git commit -m "mensagem de commit"
-##git push origin nome-da-branch
+## git add .
+## git commit -m "mensagem de commit"
+## git push origin nome-da-branch
