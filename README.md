@@ -19,7 +19,7 @@
 
 ## git checkout -b nome-da-brench
 
-## para fazer novo commit
+# Para fazer novo commit
 ## git add .
 ## git commit -m "mensagem de commit"
 ## git push origin nome-da-branch
